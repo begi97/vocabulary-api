@@ -1,7 +1,3 @@
-Of course! Here's your `README.md` content ready to copy and paste directly:
-
----
-
 ```markdown
 # 📚 Vocabulary API (Node.js + Express + MongoDB)
 
