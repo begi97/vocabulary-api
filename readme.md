@@ -105,7 +105,7 @@ npm run dev
 
 ## 👤 Author
 
-Built by [Your Name] – as part of a MERN course project.
+Built by Bahruz Badirov – as part of a MERN course project.
 
 ---
 
